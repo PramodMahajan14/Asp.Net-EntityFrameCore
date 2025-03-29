@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  web:
+    image: webapp.image  # Use the pre-built image for the web application
+    container_name: webapp.container
+    ports:
+      - "8080:8080"  # Expose port 8080 for your .NET application
+    depends_on:
+      - mongodb  # Ensure MongoDB starts before the web app
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+    volumes:
+      - ./logs:/app/logs  # Mount local logs directory to the container
+
+  mongodb:
+    image: mongo:latest  # Use the official MongoDB image
+    container_name: mongodb
+    ports:
+      - "27017:27017"  # Expose MongoDB's default port
+    volumes:
+      - mongodb_data:/data/db  # Ensure MongoDB data persists
+    networks:
+      - app-network
+
+volumes:
+  mongodb_data:  # Persistent volume for MongoDB data
+  logs:  # Local volume for log files (mounted to container)
+
+networks:
+  app-network:
+    driver: bridge

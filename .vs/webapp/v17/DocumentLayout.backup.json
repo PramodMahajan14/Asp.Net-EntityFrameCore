@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Migrations\\20250328193001_added-author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250328193001_added-author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|c:\\users\\pramod.mahajan\\desktop\\practies\\webapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|c:\\users\\pramod.mahajan\\desktop\\practies\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|c:\\users\\pramod.mahajan\\desktop\\practies\\webapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|solutionrelative:data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|c:\\users\\pramod.mahajan\\desktop\\practies\\webapp\\data\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|solutionrelative:data\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|c:\\users\\pramod.mahajan\\desktop\\practies\\webapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|solutionrelative:controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|c:\\users\\pramod.mahajan\\desktop\\practies\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|c:\\users\\pramod.mahajan\\desktop\\practies\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|solutionrelative:webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|c:\\users\\pramod.mahajan\\desktop\\practies\\webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C094D73F-B7CF-40CE-907C-B169329ED989}|webapp.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250328193001_added-author.cs",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Migrations\\20250328193001_added-author.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250328193001_added-author.cs",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Migrations\\20250328193001_added-author.cs",
+              "RelativeToolTip": "Migrations\\20250328193001_added-author.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:30:02.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\data\\Book.cs",
+              "RelativeDocumentMoniker": "data\\Book.cs",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\data\\Book.cs",
+              "RelativeToolTip": "data\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:26:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\data\\Author.cs",
+              "RelativeDocumentMoniker": "data\\Author.cs",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\data\\Author.cs",
+              "RelativeToolTip": "data\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:24:30.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\data\\AppDBContext.cs",
+              "RelativeToolTip": "data\\AppDBContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:15:05.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T20:13:24.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:10:58.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "webapp.csproj",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\webapp.csproj",
+              "RelativeDocumentMoniker": "webapp.csproj",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\webapp.csproj",
+              "RelativeToolTip": "webapp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T19:54:01.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:01:35.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\pramod.mahajan\\Desktop\\Practies\\webapp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:51:53.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
